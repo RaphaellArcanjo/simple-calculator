@@ -7,7 +7,7 @@
 - Know python and tkinter
 
 #### *Installation*
-    git clone git@github.com:delimaqz/simple-calculator.git
+    git clone git@github.com:RaphaellArcanjo/simple-calculator.git
 
 ### *Use*
 ```python
