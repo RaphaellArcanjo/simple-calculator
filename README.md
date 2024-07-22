@@ -40,7 +40,7 @@ def clear_screen():
 
 ### *Contact*
   - Name: Raphaell Arcanjo
-  - E-mail: raphaellarcanjo28@gmail.com
+  - E-mail: raphaellarcanjo@proton.me
 
 #### *Special thanks*
 ###### I took inspirations from [Lilizok4 ASMR's](https://www.youtube.com/watch?v=NhNORVxdOsc&t=2119s) youtube channel and the site [UsandoPy](https://www.usandopy.com/pt/artigo/como-fazer-calculadora-em-python/)
